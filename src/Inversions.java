@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author s652803
+ * @author 
  */
 public class Inversions {
 
