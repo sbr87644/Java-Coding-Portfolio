@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author Jaden Thomas
+ * @author Sathvik Reddy
  */
 public class TwoSum {
 
