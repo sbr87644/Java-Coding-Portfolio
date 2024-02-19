@@ -266,7 +266,7 @@ public class ImageEnhancerWithUndoAndRedo extends Component implements ActionLis
     }
 
     public void run() {
-        JFrame f = new JFrame("Image Enhancer WITH Undo AND Redo by Jaden Thomas"); // Students should update this.
+        JFrame f = new JFrame("Image Enhancer WITH Undo AND Redo by Sathvik Reddy"); // Students should update this.
         f.addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
                 System.exit(0);
